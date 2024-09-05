@@ -16,9 +16,10 @@
 ## $ whoami
 
 <details>
-<summary>Machine Learning Enthusiast with past experience of working with Citi Bank and various AI start ups in India 👨‍🔬
+<summary>Machine Learning Enthusiast with passion for Natural Language Processing, I have worked as a software engineer in Deutsche Bank and interned at various AI startups 👨‍🔬
 <ul>
-  <li>Bachelor of Technology in Information Technology, VJTI (2018 - present)</li>
+  <li>Masters of Science in Computer Science, Stony Brook University (2024 - 2026)</li>
+  <li>Bachelor of Technology in Information Technology, VJTI (2018 - 2022)</li>
   <li>CGPA: 9.00</li>
 </ul>
 </summary>

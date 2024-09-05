@@ -19,7 +19,7 @@
 <summary>Machine Learning Enthusiast with past experience of working with Citi Bank and various AI start ups in India 👨‍🔬
 <ul>
   <li>Bachelor of Technology in Information Technology, VJTI (2018 - present)</li>
-  <li>CGPA: 8.90</li>
+  <li>CGPA: 9.00</li>
 </ul>
 </summary>
 </details>

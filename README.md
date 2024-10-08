@@ -16,7 +16,7 @@
 ## $ whoami
 
 <details>
-<summary>Machine Learning Enthusiast with passion for Natural Language Processing, I have worked as a software engineer in Deutsche Bank and interned at various AI startups 👨‍🔬
+<summary>Machine Learning Enthusiast with passion for Natural Language Processing & Explainable AI, I have worked as a software engineer in Deutsche Bank, Citi Bank and interned at various AI startups 👨‍🔬
 <ul>
   <li>Masters of Science in Computer Science, Stony Brook University (2024 - 2026)</li>
   <li>Bachelor of Technology in Information Technology, VJTI (2018 - 2022)</li>
